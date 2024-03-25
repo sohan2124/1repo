@@ -1,2 +1,3 @@
 this is file1
 this is from branch1
+this was from branch 2
